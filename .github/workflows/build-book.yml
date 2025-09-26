@@ -32,7 +32,7 @@ jobs:
 
     - name: Copy & classify HTML files / Generate Rmd
       run: |
-        Rscript scripts/sync_html_and_generate_rmd.R
+        Rscript .github/scripts/sync_html_and_generate_rmd.R
 
     - name: Build bookdown
       run: |
