@@ -1,9 +1,0 @@
-bookdown::gitbook:
-  split_by: chapter
-  split_bib: FALSE
-  config:
-    toc:
-      before: |
-        <li><a href="./index.html">主页</a></li>
-      after: ""
-    download: ["pdf", "epub"]

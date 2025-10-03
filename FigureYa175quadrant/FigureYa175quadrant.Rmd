@@ -15,7 +15,6 @@ If you use this code in your work or research, we kindly request that you cite o
 
 Xiaofan Lu, et al. (2025). FigureYa: A Standardized Visualization Framework for Enhancing Biomedical Data Interpretation and Research Efficiency. iMetaMed. https://doi.org/10.1002/imm3.70005
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -72,17 +71,9 @@ In addition, you can refer to these two figureYa:
 
 # Environment Setup
 
-
 ```{r}
 source("install_dependencies.R")
 
-```
-
-Loading package
-
-```{r}
-# 加载需要的包
-# Load the required packages
 library(dplyr)
 library(ggplot2)
 library(ggrepel)

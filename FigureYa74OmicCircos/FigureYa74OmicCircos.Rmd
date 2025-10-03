@@ -1,7 +1,7 @@
 ---
 title: "FigureYa74omicCircos"
 params:
-  author: "Li Yin, Taojun Ye"
+  author: "Yin Li, Taojun Ye"
   reviewer: "Ying Ge"
 output: html_document
 ---
